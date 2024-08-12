@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   const ENV = {
-    modulePrefix: 'ember-quickstart',
+    modulePrefix: 'super-rentals',
     environment,
     rootURL: '/',
     locationType: 'history',
